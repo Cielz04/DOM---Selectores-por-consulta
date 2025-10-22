@@ -1,0 +1,13 @@
+.galeria img {
+    width: 100px;
+    height: 100px; 
+    margin: 5px;
+    border: 2px solid transparent; 
+    background-color: #eee; 
+}
+
+
+.galeria img.resaltado {
+    border-color: #9b0505;
+    border-radius: 100px;
+}
